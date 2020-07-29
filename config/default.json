@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://santiagodb:admin@contactkeeper.epluw.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://santiagodb:admin@contactkeeper.epluw.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
